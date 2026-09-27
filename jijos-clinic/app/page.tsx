@@ -275,7 +275,7 @@ export default function HomePage() {
             <iframe
               title="Clinic location on Google Maps"
               src={`https://maps.google.com/maps?q=${encodeURIComponent(
-                "12.499080,74.9951192"
+                "12.4990625,74.9951875"
               )}&output=embed`}
               width="100%"
               height="350"
@@ -287,7 +287,7 @@ export default function HomePage() {
           </div>
           <div className="text-center mt-6">
             <a
-              href={CLINIC.mapUrl}
+              href={'https://www.google.com/maps/dir/?api=1&destination=12.4990625,74.9951875'}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-teal-700 text-white font-semibold rounded-xl hover:bg-teal-800 transition-colors min-h-[44px]"
