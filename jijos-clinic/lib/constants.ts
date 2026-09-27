@@ -1,5 +1,5 @@
 // ── Clinic-wide constants ──────────────────────────────────
-export const SITE_URL = "https://drjijojose.in"; // change after deploying
+export const SITE_URL = "https://drjijo.netlify.app"
 
 export const CLINIC = {
   doctorName: "Dr. Jijo Jose M",
