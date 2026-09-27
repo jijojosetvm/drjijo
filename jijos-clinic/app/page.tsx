@@ -16,7 +16,7 @@ const homeFAQs = [
   },
   {
     question: "Where is the clinic located?",
-    answer: `The clinic is located ${CLINIC.address}. It is easily accessible from Vidyanagar, Kanhangad, and Chemnad areas.`,
+    answer: `The clinic is located ${CLINIC.address}. It is easily accessible from Vidyanagar, Ramdas Nagar, Anebagilu, Thalangara, Thayalangadi and Chemnad areas.`,
   },
   {
     question: "What conditions does Dr. Jijo treat?",
@@ -275,7 +275,7 @@ export default function HomePage() {
             <iframe
               title="Clinic location on Google Maps"
               src={`https://maps.google.com/maps?q=${encodeURIComponent(
-                "12.49925,74.9925128"
+                "12.499080,74.9951194"
               )}&output=embed`}
               width="100%"
               height="350"
