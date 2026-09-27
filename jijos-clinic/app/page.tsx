@@ -275,7 +275,7 @@ export default function HomePage() {
             <iframe
               title="Clinic location on Google Maps"
               src={`https://maps.google.com/maps?q=${encodeURIComponent(
-                "12.499080,74.9951194"
+                "12.499080,74.9951192"
               )}&output=embed`}
               width="100%"
               height="350"
