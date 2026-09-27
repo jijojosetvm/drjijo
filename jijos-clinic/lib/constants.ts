@@ -16,7 +16,7 @@ export const CLINIC = {
   pincode: "671121",
   state: "Kerala",
   city: "Kasaragod",
-  mapQuery: "12.499080,74.9951194",
+  mapQuery: "12.499080,74.9951192",
   mapUrl:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3895.25762382591!2d74.99261697372344!3d12.49907582506459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba483b514e0afb1%3A0x78011a5fd25eb837!2sDr.%20Jijo%20Jose%20M%20%7C%20Consultant%20Physician%20%7C%20MD%20General%20Medicine!5e0!3m2!1sen!2sin!4v1790516553662!5m2!1sen!2sin",
   whatsappUrl:
