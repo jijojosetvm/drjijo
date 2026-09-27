@@ -275,7 +275,7 @@ export default function HomePage() {
             <iframe
               title="Clinic location on Google Maps"
               src={`https://maps.google.com/maps?q=${encodeURIComponent(
-                "Near Municipal Town Hall Pulikunnu Kasaragod Kerala 671121"
+                "12.49925,74.9925128"
               )}&output=embed`}
               width="100%"
               height="350"
